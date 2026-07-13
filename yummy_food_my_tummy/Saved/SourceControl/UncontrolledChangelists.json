@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/kyler/Documents/GitHub/unreal test/yummy_food_my_tummy/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/KQ/YPR2W2U7FHSDFRTROQLVWQ.uasset"
+				"C:/Users/kyler/Documents/GitHub/unreal test/yummy_food_my_tummy/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/KQ/YPR2W2U7FHSDFRTROQLVWQ.uasset",
+				"C:/Users/kyler/Documents/GitHub/unreal test/yummy_food_my_tummy/Content/Characters/chiggamals/13573_Musk_Deer_v1_L3.uasset",
+				"C:/Users/kyler/Documents/GitHub/unreal test/yummy_food_my_tummy/Content/Characters/chiggamals/Musk_Deer_diff.uasset",
+				"C:/Users/kyler/Documents/GitHub/unreal test/yummy_food_my_tummy/Content/Characters/chiggamals/musk_deer.uasset"
 			]
 		}
 	]

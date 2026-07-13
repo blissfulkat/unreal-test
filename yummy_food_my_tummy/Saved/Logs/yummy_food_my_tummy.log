@@ -2288,3 +2288,460 @@ LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - d
 [2026.07.13-16.20.11:988][787]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1046.923828
 [2026.07.13-16.20.12:988][790]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.07.13-16.20.12:988][791]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1047.590576, Update Interval: 346.506531
+[2026.07.13-16.26.09:980][861]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1404.928345
+[2026.07.13-16.26.10:778][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.07.13-16.26.10:781][863]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.045
+[2026.07.13-16.26.10:781][863]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/chiggamals/13573_Musk_Deer_v1_L3] ([1] browsable assets)...
+[2026.07.13-16.26.11:000][863]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Characters/chiggamals/13573_Musk_Deer_v1_L3.13573_Musk_Deer_v1_L3]
+[2026.07.13-16.26.11:000][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/chiggamals/13573_Musk_Deer_v1_L3]
+[2026.07.13-16.26.11:046][863]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/chiggamals/13573_Musk_Deer_v1_L3_Auto2
+[2026.07.13-16.26.11:046][863]LogSavePackage: Moving '../../../../../../Users/kyler/Documents/GitHub/unreal test/yummy_food_my_tummy/Saved/13573_Musk_Deer_v1_L3_Auto2C6BA5CD74E08E5BD8B9DB1B0A5DCC41D.tmp' to '../../../../../../Users/kyler/Documents/GitHub/unreal test/yummy_food_my_tummy/Saved/Autosaves/Game/Characters/chiggamals/13573_Musk_Deer_v1_L3_Auto2.uasset'
+[2026.07.13-16.26.11:055][863]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/chiggamals/Musk_Deer_diff] ([1] browsable assets)...
+[2026.07.13-16.26.11:074][863]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/chiggamals/Musk_Deer_diff.Musk_Deer_diff]
+[2026.07.13-16.26.11:074][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/chiggamals/Musk_Deer_diff]
+[2026.07.13-16.26.11:084][863]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/chiggamals/Musk_Deer_diff_Auto2
+[2026.07.13-16.26.11:084][863]LogSavePackage: Moving '../../../../../../Users/kyler/Documents/GitHub/unreal test/yummy_food_my_tummy/Saved/Musk_Deer_diff_Auto28FEFC8FA4A9D4EC93444BC84EC8AC303.tmp' to '../../../../../../Users/kyler/Documents/GitHub/unreal test/yummy_food_my_tummy/Saved/Autosaves/Game/Characters/chiggamals/Musk_Deer_diff_Auto2.uasset'
+[2026.07.13-16.26.11:085][863]LogFileHelpers: Auto-saving content packages took 0.305
+[2026.07.13-16.26.11:113][864]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.13-16.26.11:113][864]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1406.052490, Update Interval: 331.407196
+[2026.07.13-17.16.43:570][191]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node 346F600D4B52A3D793506BBF3B02E18F (127.0.0.1:64150)
+[2026.07.13-17.16.43:570][191]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node 074771C54A87A6967360E6BBD317202A (192.168.50.45:63285)
+[2026.07.13-17.16.46:997][201]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.07.13-17.17.02:364][248]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4457.315430
+[2026.07.13-17.17.05:366][256]LogHttp: Warning: 00000221A467BD00: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.17.05:366][256]LogHttp: Warning: 00000221A467BD00: libcurl info message cache 0 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.07.13-17.17.05:366][256]LogHttp: Warning: 00000221A467BD00: libcurl info message cache 1 (IPv6: (none))
+[2026.07.13-17.17.05:366][256]LogHttp: Warning: 00000221A467BD00: libcurl info message cache 2 (IPv4: 10.0.0.1)
+[2026.07.13-17.17.05:366][256]LogHttp: Warning: 00000221A467BD00: libcurl info message cache 3 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.17.05:366][256]LogHttp: Warning: 00000221A467BD00: libcurl info message cache 4 (connect to 10.0.0.1 port 443 from 0.0.0.0 port 59902 failed: Timed out)
+[2026.07.13-17.17.05:366][256]LogHttp: Warning: 00000221A467BD00: libcurl info message cache 5 (Failed to connect to datarouter.ol.epicgames.com port 443 after 21118 ms: Could not connect to server)
+[2026.07.13-17.17.05:366][256]LogHttp: Warning: 00000221A467BD00: libcurl info message cache 6 (closing connection #3)
+[2026.07.13-17.17.05:366][256]LogHttp: Warning: 00000221A467BD00 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC798DB6D-4FCD-A050-13F3-2EBBD061577E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=d6271a4705be449b9cad1b64017c0def%7C95d1431353044f92a83bc44c381eb8b2%7C1d51430e-bb64-41fa-9bf8-690a653622c7&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 21.12s
+[2026.07.13-17.17.05:366][256]LogEOSSDK: Warning: LogHttp: 000002211CDB7200: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6F3A1AC3-4566-2D2A-FCD9-54ADAFF07653%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.19.1.2-53289219%20-%20%2B%2BEOSSDK%2BRelease-1.19.1.2&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.17.05:366][256]LogEOSSDK: Warning: LogHttp: 000002211CDB7200: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.17.05:366][256]LogEOSSDK: Warning: LogHttp: 000002211CDB7200: libcurl info message cache 0 (Too old connection (2938 seconds idle), disconnect it)
+[2026.07.13-17.17.05:366][256]LogEOSSDK: Warning: LogHttp: 000002211CDB7200: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2026.07.13-17.17.05:366][256]LogEOSSDK: Warning: LogHttp: 000002211CDB7200: libcurl info message cache 2 (Closing connection)
+[2026.07.13-17.17.05:366][256]LogEOSSDK: Warning: LogHttp: 000002211CDB7200: libcurl info message cache 3 (schannel: shutting down SSL/TLS connection with api.epicgames.dev port 443)
+[2026.07.13-17.17.05:366][256]LogEOSSDK: Warning: LogHttp: 000002211CDB7200: libcurl info message cache 4 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.17.05:366][256]LogEOSSDK: Warning: LogHttp: 000002211CDB7200: libcurl info message cache 5 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.17.05:366][256]LogEOSSDK: Warning: LogHttp: 000002211CDB7200: libcurl info message cache 6 (Failed to connect to api.epicgames.dev port 443 after 21081 ms: Couldn't connect to server)
+[2026.07.13-17.17.05:366][256]LogEOSSDK: Warning: LogHttp: 000002211CDB7200: libcurl info message cache 7 (Closing connection)
+[2026.07.13-17.17.05:366][256]LogEOSSDK: Warning: LogHttp: 000002211CDB2400: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.19.1.2-53289219&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0DBF5BD14D8BFDEE42CA07BA72A8EF0A, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.17.05:366][256]LogEOSSDK: Warning: LogHttp: 000002211CDB2400: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.17.05:366][256]LogEOSSDK: Warning: LogHttp: 000002211CDB2400: libcurl info message cache 0 (Found bundle for host: 0x221a4850810 [serially])
+[2026.07.13-17.17.05:366][256]LogEOSSDK: Warning: LogHttp: 000002211CDB2400: libcurl info message cache 1 (Hostname 'api.epicgames.dev' was found in DNS cache)
+[2026.07.13-17.17.05:366][256]LogEOSSDK: Warning: LogHttp: 000002211CDB2400: libcurl info message cache 2 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.17.05:366][256]LogEOSSDK: Warning: LogHttp: 000002211CDB2400: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.17.05:367][256]LogEOSSDK: Warning: LogHttp: 000002211CDB2400: libcurl info message cache 4 (Failed to connect to api.epicgames.dev port 443 after 21080 ms: Couldn't connect to server)
+[2026.07.13-17.17.05:367][256]LogEOSSDK: Warning: LogHttp: 000002211CDB2400: libcurl info message cache 5 (Closing connection)
+[2026.07.13-17.17.05:367][256]LogEOSSDK: Warning: LogHttp: 000002211CDB4800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.17.05:367][256]LogEOSSDK: Warning: LogHttp: 000002211CDB4800: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.17.05:367][256]LogEOSSDK: Warning: LogHttp: 000002211CDB4800: libcurl info message cache 0 (Found bundle for host: 0x221a4850810 [serially])
+[2026.07.13-17.17.05:367][256]LogEOSSDK: Warning: LogHttp: 000002211CDB4800: libcurl info message cache 1 (Hostname 'api.epicgames.dev' was found in DNS cache)
+[2026.07.13-17.17.05:367][256]LogEOSSDK: Warning: LogHttp: 000002211CDB4800: libcurl info message cache 2 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.17.05:367][257]LogEOSSDK: Warning: LogHttp: 000002211CDB4800: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.17.05:367][257]LogEOSSDK: Warning: LogHttp: 000002211CDB4800: libcurl info message cache 4 (Failed to connect to api.epicgames.dev port 443 after 21080 ms: Couldn't connect to server)
+[2026.07.13-17.17.05:367][257]LogEOSSDK: Warning: LogHttp: 000002211CDB4800: libcurl info message cache 5 (Closing connection)
+[2026.07.13-17.17.05:367][257]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6F3A1AC3-4566-2D2A-FCD9-54ADAFF07653%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.19.1.2-53289219%20-%20%2B%2BEOSSDK%2BRelease-1.19.1.2&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.07.13-17.17.05:367][257]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.07.13-17.17.05:367][257]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2026.07.13-17.17.05:367][257]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.19.1.2-53289219&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0DBF5BD14D8BFDEE42CA07BA72A8EF0A
+[2026.07.13-17.17.05:367][257]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.07.13-17.17.06:031][258]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.07.13-17.17.06:031][258]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 40.919827 seconds
+[2026.07.13-17.17.19:693][299]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.07.13-17.17.27:029][322]LogEOSSDK: Warning: LogHttp: 000002211CDB2400: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6F3A1AC3-4566-2D2A-FCD9-54ADAFF07653%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.19.1.2-53289219%20-%20%2B%2BEOSSDK%2BRelease-1.19.1.2&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.17.27:029][322]LogEOSSDK: Warning: LogHttp: 000002211CDB2400: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.17.27:030][322]LogEOSSDK: Warning: LogHttp: 000002211CDB2400: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2026.07.13-17.17.27:030][322]LogEOSSDK: Warning: LogHttp: 000002211CDB2400: libcurl info message cache 1 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.17.27:030][322]LogEOSSDK: Warning: LogHttp: 000002211CDB2400: libcurl info message cache 2 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.17.27:030][322]LogEOSSDK: Warning: LogHttp: 000002211CDB2400: libcurl info message cache 3 (Failed to connect to api.epicgames.dev port 443 after 21029 ms: Couldn't connect to server)
+[2026.07.13-17.17.27:030][322]LogEOSSDK: Warning: LogHttp: 000002211CDB2400: libcurl info message cache 4 (Closing connection)
+[2026.07.13-17.17.27:362][322]LogEOSSDK: Warning: LogHttp: 000002211CDBEA00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.17.27:362][322]LogEOSSDK: Warning: LogHttp: 000002211CDBEA00: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.17.27:362][322]LogEOSSDK: Warning: LogHttp: 000002211CDBEA00: libcurl info message cache 0 (Found bundle for host: 0x221a4850c00 [serially])
+[2026.07.13-17.17.27:362][322]LogEOSSDK: Warning: LogHttp: 000002211CDBEA00: libcurl info message cache 1 (Hostname api.epicgames.dev was found in DNS cache)
+[2026.07.13-17.17.27:362][322]LogEOSSDK: Warning: LogHttp: 000002211CDBEA00: libcurl info message cache 2 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.17.27:362][322]LogEOSSDK: Warning: LogHttp: 000002211CDBEA00: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.17.27:362][322]LogEOSSDK: Warning: LogHttp: 000002211CDBEA00: libcurl info message cache 4 (Failed to connect to api.epicgames.dev port 443 after 21035 ms: Couldn't connect to server)
+[2026.07.13-17.17.27:362][322]LogEOSSDK: Warning: LogHttp: 000002211CDBEA00: libcurl info message cache 5 (Closing connection)
+[2026.07.13-17.17.27:362][322]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6F3A1AC3-4566-2D2A-FCD9-54ADAFF07653%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.19.1.2-53289219%20-%20%2B%2BEOSSDK%2BRelease-1.19.1.2&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.07.13-17.17.27:362][323]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.07.13-17.17.27:362][323]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2026.07.13-17.17.28:030][325]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.07.13-17.17.46:698][380]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4501.651855
+[2026.07.13-17.17.49:694][389]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.07.13-17.17.51:364][394]LogEOSSDK: Warning: LogHttp: 000002211CDB3000: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.17.51:364][394]LogEOSSDK: Warning: LogHttp: 000002211CDB3000: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.17.51:364][394]LogEOSSDK: Warning: LogHttp: 000002211CDB3000: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2026.07.13-17.17.51:364][394]LogEOSSDK: Warning: LogHttp: 000002211CDB3000: libcurl info message cache 1 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.17.51:364][395]LogEOSSDK: Warning: LogHttp: 000002211CDB3000: libcurl info message cache 2 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.17.51:364][395]LogEOSSDK: Warning: LogHttp: 000002211CDB3000: libcurl info message cache 3 (Failed to connect to api.epicgames.dev port 443 after 21032 ms: Couldn't connect to server)
+[2026.07.13-17.17.51:364][395]LogEOSSDK: Warning: LogHttp: 000002211CDB3000: libcurl info message cache 4 (Closing connection)
+[2026.07.13-17.17.51:364][395]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.07.13-17.17.51:364][395]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2026.07.13-17.17.52:031][396]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.07.13-17.17.52:031][396]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 59.443340 seconds
+[2026.07.13-17.18.06:371][439]LogEOSSDK: Warning: LogHttp: 000002211CDB1200: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6F3A1AC3-4566-2D2A-FCD9-54ADAFF07653%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.19.1.2-53289219%20-%20%2B%2BEOSSDK%2BRelease-1.19.1.2&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.18.06:371][439]LogEOSSDK: Warning: LogHttp: 000002211CDB1200: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.18.06:371][440]LogEOSSDK: Warning: LogHttp: 000002211CDB1200: libcurl info message cache 0 (Found bundle for host: 0x221a4850840 [serially])
+[2026.07.13-17.18.06:371][440]LogEOSSDK: Warning: LogHttp: 000002211CDB1200: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2026.07.13-17.18.06:371][440]LogEOSSDK: Warning: LogHttp: 000002211CDB1200: libcurl info message cache 2 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.18.06:371][440]LogEOSSDK: Warning: LogHttp: 000002211CDB1200: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.18.06:371][440]LogEOSSDK: Warning: LogHttp: 000002211CDB1200: libcurl info message cache 4 (Failed to connect to api.epicgames.dev port 443 after 21047 ms: Couldn't connect to server)
+[2026.07.13-17.18.06:371][440]LogEOSSDK: Warning: LogHttp: 000002211CDB1200: libcurl info message cache 5 (Closing connection)
+[2026.07.13-17.18.06:700][440]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6F3A1AC3-4566-2D2A-FCD9-54ADAFF07653%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.19.1.2-53289219%20-%20%2B%2BEOSSDK%2BRelease-1.19.1.2&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.07.13-17.18.18:031][474]LogHttp: Warning: 00000221A4672A00: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.18.18:031][474]LogHttp: Warning: 00000221A4672A00: libcurl info message cache 0 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.07.13-17.18.18:031][474]LogHttp: Warning: 00000221A4672A00: libcurl info message cache 1 (IPv6: (none))
+[2026.07.13-17.18.18:031][474]LogHttp: Warning: 00000221A4672A00: libcurl info message cache 2 (IPv4: 10.0.0.1)
+[2026.07.13-17.18.18:031][474]LogHttp: Warning: 00000221A4672A00: libcurl info message cache 3 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.18.18:031][474]LogHttp: Warning: 00000221A4672A00: libcurl info message cache 4 (connect to 10.0.0.1 port 443 from 0.0.0.0 port 61494 failed: Timed out)
+[2026.07.13-17.18.18:031][474]LogHttp: Warning: 00000221A4672A00: libcurl info message cache 5 (Failed to connect to datarouter.ol.epicgames.com port 443 after 21062 ms: Could not connect to server)
+[2026.07.13-17.18.18:031][474]LogHttp: Warning: 00000221A4672A00: libcurl info message cache 6 (closing connection #6)
+[2026.07.13-17.18.18:031][474]LogHttp: Warning: 00000221A4672A00 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC798DB6D-4FCD-A050-13F3-2EBBD061577E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=d6271a4705be449b9cad1b64017c0def%7C95d1431353044f92a83bc44c381eb8b2%7C1d51430e-bb64-41fa-9bf8-690a653622c7&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 21.06s
+[2026.07.13-17.18.19:695][479]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.07.13-17.18.21:032][483]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.18.21:032][483]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.18.21:032][483]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: libcurl info message cache 0 (Found bundle for host: 0x221a4850840 [serially])
+[2026.07.13-17.18.21:032][483]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: libcurl info message cache 1 (Hostname api.epicgames.dev was found in DNS cache)
+[2026.07.13-17.18.21:032][484]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: libcurl info message cache 2 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.18.21:032][484]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.18.21:032][484]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: libcurl info message cache 4 (Failed to connect to api.epicgames.dev port 443 after 21023 ms: Couldn't connect to server)
+[2026.07.13-17.18.21:032][484]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: libcurl info message cache 5 (Closing connection)
+[2026.07.13-17.18.21:032][484]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.07.13-17.18.21:032][484]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2026.07.13-17.18.21:697][485]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.07.13-17.18.49:696][569]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.07.13-17.18.51:369][574]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4566.321777
+[2026.07.13-17.18.55:368][586]LogEOSSDK: Warning: LogHttp: 000002211CDBDE00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.18.55:368][586]LogEOSSDK: Warning: LogHttp: 000002211CDBDE00: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.18.55:368][587]LogEOSSDK: Warning: LogHttp: 000002211CDBDE00: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2026.07.13-17.18.55:368][587]LogEOSSDK: Warning: LogHttp: 000002211CDBDE00: libcurl info message cache 1 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.18.55:368][587]LogEOSSDK: Warning: LogHttp: 000002211CDBDE00: libcurl info message cache 2 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.18.55:368][587]LogEOSSDK: Warning: LogHttp: 000002211CDBDE00: libcurl info message cache 3 (Failed to connect to api.epicgames.dev port 443 after 21040 ms: Couldn't connect to server)
+[2026.07.13-17.18.55:368][587]LogEOSSDK: Warning: LogHttp: 000002211CDBDE00: libcurl info message cache 4 (Closing connection)
+[2026.07.13-17.18.55:368][587]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.07.13-17.18.55:368][587]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2026.07.13-17.18.56:035][588]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.07.13-17.18.56:035][588]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 32.408829 seconds
+[2026.07.13-17.19.05:703][617]LogEOSSDK: Warning: LogHttp: 000002211CDB9000: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.19.1.2-53289219&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0DBF5BD14D8BFDEE42CA07BA72A8EF0A, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.19.05:703][617]LogEOSSDK: Warning: LogHttp: 000002211CDB9000: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.19.05:703][617]LogEOSSDK: Warning: LogHttp: 000002211CDB9000: libcurl info message cache 0 (Found bundle for host: 0x221a48506c0 [serially])
+[2026.07.13-17.19.05:703][617]LogEOSSDK: Warning: LogHttp: 000002211CDB9000: libcurl info message cache 1 (Hostname api.epicgames.dev was found in DNS cache)
+[2026.07.13-17.19.05:703][617]LogEOSSDK: Warning: LogHttp: 000002211CDB9000: libcurl info message cache 2 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.19.05:703][617]LogEOSSDK: Warning: LogHttp: 000002211CDB9000: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.19.05:703][617]LogEOSSDK: Warning: LogHttp: 000002211CDB9000: libcurl info message cache 4 (Failed to connect to api.epicgames.dev port 443 after 21033 ms: Couldn't connect to server)
+[2026.07.13-17.19.05:703][617]LogEOSSDK: Warning: LogHttp: 000002211CDB9000: libcurl info message cache 5 (Closing connection)
+[2026.07.13-17.19.05:703][617]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.19.1.2-53289219&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0DBF5BD14D8BFDEE42CA07BA72A8EF0A
+[2026.07.13-17.19.05:703][618]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.07.13-17.19.06:369][619]LogEOSSDK: Warning: LogHttp: 000002211CDB4800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6F3A1AC3-4566-2D2A-FCD9-54ADAFF07653%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.19.1.2-53289219%20-%20%2B%2BEOSSDK%2BRelease-1.19.1.2&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.19.06:369][619]LogEOSSDK: Warning: LogHttp: 000002211CDB4800: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.19.06:369][619]LogEOSSDK: Warning: LogHttp: 000002211CDB4800: libcurl info message cache 0 (Found bundle for host: 0x221a48506c0 [serially])
+[2026.07.13-17.19.06:369][619]LogEOSSDK: Warning: LogHttp: 000002211CDB4800: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2026.07.13-17.19.06:369][620]LogEOSSDK: Warning: LogHttp: 000002211CDB4800: libcurl info message cache 2 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.19.06:369][620]LogEOSSDK: Warning: LogHttp: 000002211CDB4800: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.19.06:369][620]LogEOSSDK: Warning: LogHttp: 000002211CDB4800: libcurl info message cache 4 (Failed to connect to api.epicgames.dev port 443 after 21054 ms: Couldn't connect to server)
+[2026.07.13-17.19.06:369][620]LogEOSSDK: Warning: LogHttp: 000002211CDB4800: libcurl info message cache 5 (Closing connection)
+[2026.07.13-17.19.06:702][621]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6F3A1AC3-4566-2D2A-FCD9-54ADAFF07653%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.19.1.2-53289219%20-%20%2B%2BEOSSDK%2BRelease-1.19.1.2&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.07.13-17.19.18:034][654]LogHttp: Warning: 00000221A4678500: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.19.18:035][654]LogHttp: Warning: 00000221A4678500: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2026.07.13-17.19.18:035][654]LogHttp: Warning: 00000221A4678500: libcurl info message cache 1 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.07.13-17.19.18:035][654]LogHttp: Warning: 00000221A4678500: libcurl info message cache 2 (IPv6: (none))
+[2026.07.13-17.19.18:035][655]LogHttp: Warning: 00000221A4678500: libcurl info message cache 3 (IPv4: 10.0.0.1)
+[2026.07.13-17.19.18:035][655]LogHttp: Warning: 00000221A4678500: libcurl info message cache 4 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.19.18:035][655]LogHttp: Warning: 00000221A4678500: libcurl info message cache 5 (connect to 10.0.0.1 port 443 from 0.0.0.0 port 50932 failed: Timed out)
+[2026.07.13-17.19.18:035][655]LogHttp: Warning: 00000221A4678500: libcurl info message cache 6 (Failed to connect to datarouter.ol.epicgames.com port 443 after 21068 ms: Could not connect to server)
+[2026.07.13-17.19.18:035][655]LogHttp: Warning: 00000221A4678500: libcurl info message cache 7 (closing connection #9)
+[2026.07.13-17.19.18:035][655]LogHttp: Warning: 00000221A4678500 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC798DB6D-4FCD-A050-13F3-2EBBD061577E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=d6271a4705be449b9cad1b64017c0def%7C95d1431353044f92a83bc44c381eb8b2%7C1d51430e-bb64-41fa-9bf8-690a653622c7&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 21.07s
+[2026.07.13-17.19.19:695][659]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.07.13-17.19.28:370][685]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4603.323242
+[2026.07.13-17.19.47:702][743]LogEOSSDK: Warning: LogHttp: 000002211CDBBA00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.19.47:702][743]LogEOSSDK: Warning: LogHttp: 000002211CDBBA00: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.19.47:702][744]LogEOSSDK: Warning: LogHttp: 000002211CDBBA00: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2026.07.13-17.19.47:702][744]LogEOSSDK: Warning: LogHttp: 000002211CDBBA00: libcurl info message cache 1 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.19.47:702][744]LogEOSSDK: Warning: LogHttp: 000002211CDBBA00: libcurl info message cache 2 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.19.47:702][744]LogEOSSDK: Warning: LogHttp: 000002211CDBBA00: libcurl info message cache 3 (Failed to connect to api.epicgames.dev port 443 after 21040 ms: Couldn't connect to server)
+[2026.07.13-17.19.47:702][744]LogEOSSDK: Warning: LogHttp: 000002211CDBBA00: libcurl info message cache 4 (Closing connection)
+[2026.07.13-17.19.47:703][744]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.07.13-17.19.47:703][744]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2026.07.13-17.19.48:369][745]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.07.13-17.19.48:369][745]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 32.980129 seconds
+[2026.07.13-17.19.49:696][749]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.07.13-17.20.06:371][799]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6F3A1AC3-4566-2D2A-FCD9-54ADAFF07653%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.19.1.2-53289219%20-%20%2B%2BEOSSDK%2BRelease-1.19.1.2&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.20.06:371][800]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.20.06:371][800]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: libcurl info message cache 0 (Found bundle for host: 0x221a4850390 [serially])
+[2026.07.13-17.20.06:371][800]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2026.07.13-17.20.06:371][800]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: libcurl info message cache 2 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.20.06:371][800]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.20.06:371][800]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: libcurl info message cache 4 (Failed to connect to api.epicgames.dev port 443 after 21077 ms: Couldn't connect to server)
+[2026.07.13-17.20.06:371][800]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: libcurl info message cache 5 (Closing connection)
+[2026.07.13-17.20.06:704][800]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6F3A1AC3-4566-2D2A-FCD9-54ADAFF07653%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.19.1.2-53289219%20-%20%2B%2BEOSSDK%2BRelease-1.19.1.2&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.07.13-17.20.18:037][834]LogHttp: Warning: 00000221A4670000: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.20.18:037][834]LogHttp: Warning: 00000221A4670000: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2026.07.13-17.20.18:037][834]LogHttp: Warning: 00000221A4670000: libcurl info message cache 1 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.07.13-17.20.18:037][834]LogHttp: Warning: 00000221A4670000: libcurl info message cache 2 (IPv6: (none))
+[2026.07.13-17.20.18:037][834]LogHttp: Warning: 00000221A4670000: libcurl info message cache 3 (IPv4: 10.0.0.1)
+[2026.07.13-17.20.18:037][834]LogHttp: Warning: 00000221A4670000: libcurl info message cache 4 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.20.18:037][834]LogHttp: Warning: 00000221A4670000: libcurl info message cache 5 (connect to 10.0.0.1 port 443 from 0.0.0.0 port 52339 failed: Timed out)
+[2026.07.13-17.20.18:037][834]LogHttp: Warning: 00000221A4670000: libcurl info message cache 6 (Failed to connect to datarouter.ol.epicgames.com port 443 after 21059 ms: Could not connect to server)
+[2026.07.13-17.20.18:038][835]LogHttp: Warning: 00000221A4670000: libcurl info message cache 7 (closing connection #12)
+[2026.07.13-17.20.18:038][835]LogHttp: Warning: 00000221A4670000 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC798DB6D-4FCD-A050-13F3-2EBBD061577E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=d6271a4705be449b9cad1b64017c0def%7C95d1431353044f92a83bc44c381eb8b2%7C1d51430e-bb64-41fa-9bf8-690a653622c7&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 21.06s
+[2026.07.13-17.20.19:696][839]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.07.13-17.20.21:035][843]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4655.988770
+[2026.07.13-17.20.49:698][929]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.07.13-17.21.05:703][977]LogEOSSDK: Warning: LogHttp: 000002211CDB5A00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.19.1.2-53289219&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0DBF5BD14D8BFDEE42CA07BA72A8EF0A, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.21.05:703][977]LogEOSSDK: Warning: LogHttp: 000002211CDB5A00: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.21.05:703][977]LogEOSSDK: Warning: LogHttp: 000002211CDB5A00: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2026.07.13-17.21.05:703][977]LogEOSSDK: Warning: LogHttp: 000002211CDB5A00: libcurl info message cache 1 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.21.05:703][977]LogEOSSDK: Warning: LogHttp: 000002211CDB5A00: libcurl info message cache 2 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.21.05:703][977]LogEOSSDK: Warning: LogHttp: 000002211CDB5A00: libcurl info message cache 3 (Failed to connect to api.epicgames.dev port 443 after 21029 ms: Couldn't connect to server)
+[2026.07.13-17.21.05:703][977]LogEOSSDK: Warning: LogHttp: 000002211CDB5A00: libcurl info message cache 4 (Closing connection)
+[2026.07.13-17.21.05:703][977]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.19.1.2-53289219&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0DBF5BD14D8BFDEE42CA07BA72A8EF0A
+[2026.07.13-17.21.05:703][978]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.07.13-17.21.06:370][979]LogEOSSDK: Warning: LogHttp: 000002211CDB3600: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6F3A1AC3-4566-2D2A-FCD9-54ADAFF07653%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.19.1.2-53289219%20-%20%2B%2BEOSSDK%2BRelease-1.19.1.2&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.21.06:370][979]LogEOSSDK: Warning: LogHttp: 000002211CDB3600: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.21.06:370][979]LogEOSSDK: Warning: LogHttp: 000002211CDB3600: libcurl info message cache 0 (Found bundle for host: 0x221a4850ea0 [serially])
+[2026.07.13-17.21.06:370][979]LogEOSSDK: Warning: LogHttp: 000002211CDB3600: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2026.07.13-17.21.06:370][979]LogEOSSDK: Warning: LogHttp: 000002211CDB3600: libcurl info message cache 2 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.21.06:370][979]LogEOSSDK: Warning: LogHttp: 000002211CDB3600: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.21.06:370][980]LogEOSSDK: Warning: LogHttp: 000002211CDB3600: libcurl info message cache 4 (Failed to connect to api.epicgames.dev port 443 after 21061 ms: Couldn't connect to server)
+[2026.07.13-17.21.06:370][980]LogEOSSDK: Warning: LogHttp: 000002211CDB3600: libcurl info message cache 5 (Closing connection)
+[2026.07.13-17.21.06:704][980]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6F3A1AC3-4566-2D2A-FCD9-54ADAFF07653%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.19.1.2-53289219%20-%20%2B%2BEOSSDK%2BRelease-1.19.1.2&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.07.13-17.21.09:370][988]LogEOSSDK: Warning: LogHttp: 000002211CDB1800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.21.09:371][988]LogEOSSDK: Warning: LogHttp: 000002211CDB1800: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.21.09:371][988]LogEOSSDK: Warning: LogHttp: 000002211CDB1800: libcurl info message cache 0 (Found bundle for host: 0x221a4850ea0 [serially])
+[2026.07.13-17.21.09:371][988]LogEOSSDK: Warning: LogHttp: 000002211CDB1800: libcurl info message cache 1 (Hostname api.epicgames.dev was found in DNS cache)
+[2026.07.13-17.21.09:371][988]LogEOSSDK: Warning: LogHttp: 000002211CDB1800: libcurl info message cache 2 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.21.09:371][988]LogEOSSDK: Warning: LogHttp: 000002211CDB1800: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.21.09:371][989]LogEOSSDK: Warning: LogHttp: 000002211CDB1800: libcurl info message cache 4 (Failed to connect to api.epicgames.dev port 443 after 21062 ms: Couldn't connect to server)
+[2026.07.13-17.21.09:371][989]LogEOSSDK: Warning: LogHttp: 000002211CDB1800: libcurl info message cache 5 (Closing connection)
+[2026.07.13-17.21.09:371][989]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.07.13-17.21.09:371][989]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2026.07.13-17.21.10:039][990]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.07.13-17.21.10:039][990]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 37.245705 seconds
+[2026.07.13-17.21.18:038][ 14]LogHttp: Warning: 00000221A4673F00: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.21.18:038][ 14]LogHttp: Warning: 00000221A4673F00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2026.07.13-17.21.18:038][ 14]LogHttp: Warning: 00000221A4673F00: libcurl info message cache 1 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.07.13-17.21.18:038][ 14]LogHttp: Warning: 00000221A4673F00: libcurl info message cache 2 (IPv6: (none))
+[2026.07.13-17.21.18:038][ 14]LogHttp: Warning: 00000221A4673F00: libcurl info message cache 3 (IPv4: 10.0.0.1)
+[2026.07.13-17.21.18:039][ 14]LogHttp: Warning: 00000221A4673F00: libcurl info message cache 4 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.21.18:039][ 14]LogHttp: Warning: 00000221A4673F00: libcurl info message cache 5 (connect to 10.0.0.1 port 443 from 0.0.0.0 port 52064 failed: Timed out)
+[2026.07.13-17.21.18:039][ 15]LogHttp: Warning: 00000221A4673F00: libcurl info message cache 6 (Failed to connect to datarouter.ol.epicgames.com port 443 after 21066 ms: Could not connect to server)
+[2026.07.13-17.21.18:039][ 15]LogHttp: Warning: 00000221A4673F00: libcurl info message cache 7 (closing connection #15)
+[2026.07.13-17.21.18:039][ 15]LogHttp: Warning: 00000221A4673F00 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC798DB6D-4FCD-A050-13F3-2EBBD061577E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=d6271a4705be449b9cad1b64017c0def%7C95d1431353044f92a83bc44c381eb8b2%7C1d51430e-bb64-41fa-9bf8-690a653622c7&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 21.07s
+[2026.07.13-17.21.19:698][ 19]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.07.13-17.21.47:038][101]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4741.992676
+[2026.07.13-17.21.49:698][109]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.07.13-17.22.06:374][159]LogEOSSDK: Warning: LogHttp: 000002211CDB6C00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6F3A1AC3-4566-2D2A-FCD9-54ADAFF07653%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.19.1.2-53289219%20-%20%2B%2BEOSSDK%2BRelease-1.19.1.2&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.22.06:374][159]LogEOSSDK: Warning: LogHttp: 000002211CDB6C00: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.22.06:374][159]LogEOSSDK: Warning: LogHttp: 000002211CDB6C00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2026.07.13-17.22.06:374][159]LogEOSSDK: Warning: LogHttp: 000002211CDB6C00: libcurl info message cache 1 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.22.06:374][160]LogEOSSDK: Warning: LogHttp: 000002211CDB6C00: libcurl info message cache 2 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.22.06:374][160]LogEOSSDK: Warning: LogHttp: 000002211CDB6C00: libcurl info message cache 3 (Failed to connect to api.epicgames.dev port 443 after 21064 ms: Couldn't connect to server)
+[2026.07.13-17.22.06:374][160]LogEOSSDK: Warning: LogHttp: 000002211CDB6C00: libcurl info message cache 4 (Closing connection)
+[2026.07.13-17.22.06:708][160]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6F3A1AC3-4566-2D2A-FCD9-54ADAFF07653%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.19.1.2-53289219%20-%20%2B%2BEOSSDK%2BRelease-1.19.1.2&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.07.13-17.22.18:044][194]LogHttp: Warning: 00000221A467A100: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.22.18:044][195]LogHttp: Warning: 00000221A467A100: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2026.07.13-17.22.18:044][195]LogHttp: Warning: 00000221A467A100: libcurl info message cache 1 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.07.13-17.22.18:044][195]LogHttp: Warning: 00000221A467A100: libcurl info message cache 2 (IPv6: (none))
+[2026.07.13-17.22.18:044][195]LogHttp: Warning: 00000221A467A100: libcurl info message cache 3 (IPv4: 10.0.0.1)
+[2026.07.13-17.22.18:044][195]LogHttp: Warning: 00000221A467A100: libcurl info message cache 4 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.22.18:044][195]LogHttp: Warning: 00000221A467A100: libcurl info message cache 5 (connect to 10.0.0.1 port 443 from 0.0.0.0 port 55497 failed: Timed out)
+[2026.07.13-17.22.18:044][195]LogHttp: Warning: 00000221A467A100: libcurl info message cache 6 (Failed to connect to datarouter.ol.epicgames.com port 443 after 21048 ms: Could not connect to server)
+[2026.07.13-17.22.18:044][195]LogHttp: Warning: 00000221A467A100: libcurl info message cache 7 (closing connection #18)
+[2026.07.13-17.22.18:044][195]LogHttp: Warning: 00000221A467A100 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC798DB6D-4FCD-A050-13F3-2EBBD061577E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=d6271a4705be449b9cad1b64017c0def%7C95d1431353044f92a83bc44c381eb8b2%7C1d51430e-bb64-41fa-9bf8-690a653622c7&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 21.05s
+[2026.07.13-17.22.19:699][199]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.07.13-17.22.29:706][229]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.22.29:706][229]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.22.29:706][229]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2026.07.13-17.22.29:707][230]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: libcurl info message cache 1 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.22.29:707][230]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: libcurl info message cache 2 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.22.29:707][230]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: libcurl info message cache 3 (Failed to connect to api.epicgames.dev port 443 after 21057 ms: Couldn't connect to server)
+[2026.07.13-17.22.29:707][230]LogEOSSDK: Warning: LogHttp: 000002211CDBA800: libcurl info message cache 4 (Closing connection)
+[2026.07.13-17.22.29:707][230]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.07.13-17.22.29:707][230]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2026.07.13-17.22.30:373][231]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.07.13-17.22.30:373][231]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 47.052219 seconds
+[2026.07.13-17.22.49:700][289]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.07.13-17.23.05:707][337]LogEOSSDK: Warning: LogHttp: 000002211CDBCC00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.19.1.2-53289219&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0DBF5BD14D8BFDEE42CA07BA72A8EF0A, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.23.05:707][337]LogEOSSDK: Warning: LogHttp: 000002211CDBCC00: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.23.05:707][337]LogEOSSDK: Warning: LogHttp: 000002211CDBCC00: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2026.07.13-17.23.05:707][337]LogEOSSDK: Warning: LogHttp: 000002211CDBCC00: libcurl info message cache 1 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.23.05:707][337]LogEOSSDK: Warning: LogHttp: 000002211CDBCC00: libcurl info message cache 2 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.23.05:707][337]LogEOSSDK: Warning: LogHttp: 000002211CDBCC00: libcurl info message cache 3 (Failed to connect to api.epicgames.dev port 443 after 21037 ms: Couldn't connect to server)
+[2026.07.13-17.23.05:707][337]LogEOSSDK: Warning: LogHttp: 000002211CDBCC00: libcurl info message cache 4 (Closing connection)
+[2026.07.13-17.23.05:707][337]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.19.1.2-53289219&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0DBF5BD14D8BFDEE42CA07BA72A8EF0A
+[2026.07.13-17.23.05:707][338]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.07.13-17.23.06:372][339]LogEOSSDK: Warning: LogHttp: 000002211CDB0C00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6F3A1AC3-4566-2D2A-FCD9-54ADAFF07653%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.19.1.2-53289219%20-%20%2B%2BEOSSDK%2BRelease-1.19.1.2&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.23.06:372][339]LogEOSSDK: Warning: LogHttp: 000002211CDB0C00: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.23.06:372][339]LogEOSSDK: Warning: LogHttp: 000002211CDB0C00: libcurl info message cache 0 (Found bundle for host: 0x221a4850870 [serially])
+[2026.07.13-17.23.06:372][339]LogEOSSDK: Warning: LogHttp: 000002211CDB0C00: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2026.07.13-17.23.06:372][339]LogEOSSDK: Warning: LogHttp: 000002211CDB0C00: libcurl info message cache 2 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.23.06:372][340]LogEOSSDK: Warning: LogHttp: 000002211CDB0C00: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.23.06:372][340]LogEOSSDK: Warning: LogHttp: 000002211CDB0C00: libcurl info message cache 4 (Failed to connect to api.epicgames.dev port 443 after 21067 ms: Couldn't connect to server)
+[2026.07.13-17.23.06:372][340]LogEOSSDK: Warning: LogHttp: 000002211CDB0C00: libcurl info message cache 5 (Closing connection)
+[2026.07.13-17.23.06:705][340]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6F3A1AC3-4566-2D2A-FCD9-54ADAFF07653%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.19.1.2-53289219%20-%20%2B%2BEOSSDK%2BRelease-1.19.1.2&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.07.13-17.23.17:374][372]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4832.326660
+[2026.07.13-17.23.18:041][374]LogHttp: Warning: 00000221A4670700: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.23.18:042][374]LogHttp: Warning: 00000221A4670700: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2026.07.13-17.23.18:042][374]LogHttp: Warning: 00000221A4670700: libcurl info message cache 1 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.07.13-17.23.18:042][374]LogHttp: Warning: 00000221A4670700: libcurl info message cache 2 (IPv6: (none))
+[2026.07.13-17.23.18:042][374]LogHttp: Warning: 00000221A4670700: libcurl info message cache 3 (IPv4: 10.0.0.1)
+[2026.07.13-17.23.18:042][374]LogHttp: Warning: 00000221A4670700: libcurl info message cache 4 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.23.18:042][374]LogHttp: Warning: 00000221A4670700: libcurl info message cache 5 (connect to 10.0.0.1 port 443 from 0.0.0.0 port 60071 failed: Timed out)
+[2026.07.13-17.23.18:042][375]LogHttp: Warning: 00000221A4670700: libcurl info message cache 6 (Failed to connect to datarouter.ol.epicgames.com port 443 after 21047 ms: Could not connect to server)
+[2026.07.13-17.23.18:042][375]LogHttp: Warning: 00000221A4670700: libcurl info message cache 7 (closing connection #21)
+[2026.07.13-17.23.18:042][375]LogHttp: Warning: 00000221A4670700 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC798DB6D-4FCD-A050-13F3-2EBBD061577E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=d6271a4705be449b9cad1b64017c0def%7C95d1431353044f92a83bc44c381eb8b2%7C1d51430e-bb64-41fa-9bf8-690a653622c7&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 21.05s
+[2026.07.13-17.23.19:700][379]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.07.13-17.23.39:042][438]LogEOSSDK: Warning: LogHttp: 000002211CDB0C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.23.39:042][438]LogEOSSDK: Warning: LogHttp: 000002211CDB0C00: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.23.39:042][438]LogEOSSDK: Warning: LogHttp: 000002211CDB0C00: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2026.07.13-17.23.39:042][438]LogEOSSDK: Warning: LogHttp: 000002211CDB0C00: libcurl info message cache 1 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.23.39:042][438]LogEOSSDK: Warning: LogHttp: 000002211CDB0C00: libcurl info message cache 2 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.23.39:042][438]LogEOSSDK: Warning: LogHttp: 000002211CDB0C00: libcurl info message cache 3 (Failed to connect to api.epicgames.dev port 443 after 21039 ms: Couldn't connect to server)
+[2026.07.13-17.23.39:042][438]LogEOSSDK: Warning: LogHttp: 000002211CDB0C00: libcurl info message cache 4 (Closing connection)
+[2026.07.13-17.23.39:043][438]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.07.13-17.23.39:043][438]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2026.07.13-17.23.39:708][439]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.07.13-17.23.39:708][440]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 34.341564 seconds
+[2026.07.13-17.23.49:700][469]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.07.13-17.23.58:847][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.07.13-17.24.01:965][497]LogSlate: Window 'Save Content' being destroyed
+[2026.07.13-17.24.02:021][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.13-17.24.02:116][497]LogFileHelpers: Saving Package: /Game/Characters/chiggamals/13573_Musk_Deer_v1_L3
+[2026.07.13-17.24.02:117][497]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/chiggamals/13573_Musk_Deer_v1_L3] ([1] browsable assets)...
+[2026.07.13-17.24.02:117][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/chiggamals/13573_Musk_Deer_v1_L3]
+[2026.07.13-17.24.02:168][497]LogSavePackage: Moving output files for package: /Game/Characters/chiggamals/13573_Musk_Deer_v1_L3
+[2026.07.13-17.24.02:168][497]LogSavePackage: Moving '../../../../../../Users/kyler/Documents/GitHub/unreal test/yummy_food_my_tummy/Saved/13573_Musk_Deer_v1_L3EEFEABDE4588026C62AFB69E920AC4BF.tmp' to '../../../../../../Users/kyler/Documents/GitHub/unreal test/yummy_food_my_tummy/Content/Characters/chiggamals/13573_Musk_Deer_v1_L3.uasset'
+[2026.07.13-17.24.02:170][497]LogFileHelpers: Saving Package: /Game/Characters/chiggamals/Musk_Deer_diff
+[2026.07.13-17.24.02:170][497]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/chiggamals/Musk_Deer_diff] ([1] browsable assets)...
+[2026.07.13-17.24.02:170][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/chiggamals/Musk_Deer_diff]
+[2026.07.13-17.24.02:184][497]LogSavePackage: Moving output files for package: /Game/Characters/chiggamals/Musk_Deer_diff
+[2026.07.13-17.24.02:184][497]LogSavePackage: Moving '../../../../../../Users/kyler/Documents/GitHub/unreal test/yummy_food_my_tummy/Saved/Musk_Deer_diff3E670B784539E3B70C5F88988D1071EF.tmp' to '../../../../../../Users/kyler/Documents/GitHub/unreal test/yummy_food_my_tummy/Content/Characters/chiggamals/Musk_Deer_diff.uasset'
+[2026.07.13-17.24.02:187][497]LogFileHelpers: Saving Package: /Game/Characters/chiggamals/musk_deer
+[2026.07.13-17.24.02:187][497]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/chiggamals/musk_deer] ([1] browsable assets)...
+[2026.07.13-17.24.02:187][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/chiggamals/musk_deer]
+[2026.07.13-17.24.02:200][497]LogSavePackage: Moving output files for package: /Game/Characters/chiggamals/musk_deer
+[2026.07.13-17.24.02:200][497]LogSavePackage: Moving '../../../../../../Users/kyler/Documents/GitHub/unreal test/yummy_food_my_tummy/Saved/musk_deer98CE767B474F90A707FD7B8A0B251C3E.tmp' to '../../../../../../Users/kyler/Documents/GitHub/unreal test/yummy_food_my_tummy/Content/Characters/chiggamals/musk_deer.uasset'
+[2026.07.13-17.24.02:222][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.465 ms (total: 313.271 ms)
+[2026.07.13-17.24.02:286][497]LogStall: Shutdown...
+[2026.07.13-17.24.02:295][497]LogStall: Shutdown complete.
+[2026.07.13-17.24.02:309][497]LogSlate: Window 'yummy_food_my_tummy - Unreal Editor' being destroyed
+[2026.07.13-17.24.02:587][497]LogContentValidation: Enabled validators:
+[2026.07.13-17.24.02:587][497]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.13-17.24.02:587][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.07.13-17.24.02:587][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.13-17.24.02:587][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.13-17.24.02:587][497]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.13-17.24.02:587][497]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.13-17.24.02:587][497]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.13-17.24.02:587][497]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.07.13-17.24.02:587][497]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.07.13-17.24.02:587][497]LogContentValidation: Display: Starting to validate 3 assets (0 associated objects such as actors)
+[2026.07.13-17.24.02:587][497]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.07.13-17.24.02:729][497]AssetCheck: /Game/Characters/chiggamals/13573_Musk_Deer_v1_L3 Validating asset
+[2026.07.13-17.24.02:729][497]AssetCheck: /Game/Characters/chiggamals/Musk_Deer_diff Validating asset
+[2026.07.13-17.24.02:729][497]AssetCheck: /Game/Characters/chiggamals/musk_deer Validating asset
+[2026.07.13-17.24.02:730][497]LogContentValidation: Validated asset counts for 9 validators:
+[2026.07.13-17.24.02:730][497]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.07.13-17.24.02:730][497]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.07.13-17.24.02:730][497]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 3
+[2026.07.13-17.24.02:730][497]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.07.13-17.24.02:730][497]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.07.13-17.24.02:730][497]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.07.13-17.24.02:730][497]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.07.13-17.24.02:730][497]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.07.13-17.24.02:730][497]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.07.13-17.24.02:757][497]Cmd: QUIT_EDITOR
+[2026.07.13-17.24.02:757][497]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.07.13-17.24.02:758][497]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/kyler/Documents/GitHub/unreal test/yummy_food_my_tummy/Saved/SourceControl/UncontrolledChangelists.json
+[2026.07.13-17.24.02:776][498]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.07.13-17.24.02:780][498]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.07.13-17.24.02:780][498]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.07.13-17.24.02:801][498]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.07.13-17.24.02:803][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.13-17.24.02:803][498]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.07.13-17.24.02:806][498]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.07.13-17.24.02:834][498]LogToolsetRegistry: Display: Unregistering Toolset ToolsetRegistry.AgentSkillToolset
+[2026.07.13-17.24.02:838][498]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.07.13-17.24.02:971][498]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.07.13-17.24.02:992][498]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.07.13-17.24.02:992][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.13-17.24.02:993][498]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.07.13-17.24.02:993][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.13-17.24.03:001][498]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.07.13-17.24.03:007][498]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.07.13-17.24.04:004][498]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.07.13-17.24.04:004][498]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.07.13-17.24.04:004][498]LogAudio: Display: Audio Device unregistered from world 'Lvl_FirstPerson'.
+[2026.07.13-17.24.04:004][498]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.07.13-17.24.04:004][498]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.07.13-17.24.04:020][498]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.07.13-17.24.04:029][498]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.07.13-17.24.04:029][498]LogAudio: Display: Audio Device Manager Shutdown
+[2026.07.13-17.24.04:087][498]LogWindowsTextInputMethodSystem: Activated input method: English (Singapore) - (Keyboard).
+[2026.07.13-17.24.04:102][498]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.07.13-17.24.04:102][498]LogExit: Preparing to exit.
+[2026.07.13-17.24.04:489][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.07.13-17.24.05:625][498]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.07.13-17.24.05:625][498]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 1 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.07.13-17.24.05:633][498]LogEditorDataStorage: Deinitializing
+[2026.07.13-17.24.05:636][498]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.07.13-17.24.05:636][498]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.07.13-17.24.05:636][498]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.07.13-17.24.05:636][498]LogEditorDataStorage: Resetting TEDS Core.
+[2026.07.13-17.24.05:642][498]LogEditorDataStorage: Reset TEDS Core.
+[2026.07.13-17.24.05:642][498]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.07.13-17.24.05:847][498]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.07.13-17.24.05:931][498]LogExit: Editor shut down
+[2026.07.13-17.24.05:945][498]LogExit: Transaction tracking system shut down
+[2026.07.13-17.24.06:446][498]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.07.13-17.24.06:446][498]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.07.13-17.24.06:490][498]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.07.13-17.24.06:490][498]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.07.13-17.24.06:607][498]LogExit: Object subsystem successfully closed.
+[2026.07.13-17.24.06:636][498]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.07.13-17.24.06:988][498]LogObjectProfiler: Shutdown
+[2026.07.13-17.24.06:988][498]LogMemoryProfiler: Shutdown
+[2026.07.13-17.24.06:989][498]LogNetworkingProfiler: Shutdown
+[2026.07.13-17.24.06:989][498]LogLoadingProfiler: Shutdown
+[2026.07.13-17.24.06:990][498]LogTimingProfiler: Shutdown
+[2026.07.13-17.24.06:996][498]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.07.13-17.24.06:997][498]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.07.13-17.24.06:997][498]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDCameraTracesExtension] ...
+[2026.07.13-17.24.06:997][498]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDParticleExtraDataExtension] ...
+[2026.07.13-17.24.06:997][498]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FPerformanceMetricsExtension] ...
+[2026.07.13-17.24.07:792][498]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.07.13-17.24.07:819][498]LogEOSSDK: Warning: LogHttp: 000002211CDBAE00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6F3A1AC3-4566-2D2A-FCD9-54ADAFF07653%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.19.1.2-53289219%20-%20%2B%2BEOSSDK%2BRelease-1.19.1.2&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.13-17.24.07:819][498]LogEOSSDK: Warning: LogHttp: 000002211CDBAE00: request failed, libcurl error: 28 (Timeout was reached)
+[2026.07.13-17.24.07:819][498]LogEOSSDK: Warning: LogHttp: 000002211CDBAE00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2026.07.13-17.24.07:819][498]LogEOSSDK: Warning: LogHttp: 000002211CDBAE00: libcurl info message cache 1 (  Trying 10.0.0.1:443...)
+[2026.07.13-17.24.07:819][498]LogEOSSDK: Warning: LogHttp: 000002211CDBAE00: libcurl info message cache 2 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2026.07.13-17.24.07:819][498]LogEOSSDK: Warning: LogHttp: 000002211CDBAE00: libcurl info message cache 3 (Failed to connect to api.epicgames.dev port 443 after 21059 ms: Couldn't connect to server)
+[2026.07.13-17.24.07:819][498]LogEOSSDK: Warning: LogHttp: 000002211CDBAE00: libcurl info message cache 4 (Closing connection)
+[2026.07.13-17.24.10:322][498]LogEOSSDK: Warning: LogHttp: 000002211CE57E00: request was cancelled
+[2026.07.13-17.24.10:322][498]LogEOSSDK: Warning: LogHttp: 000002211CE50600: request was cancelled
+[2026.07.13-17.24.10:322][498]LogEOSSDK: Warning: LogHttp: 000002211CE50C00: request was cancelled
+[2026.07.13-17.24.10:345][498]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.07.13-17.24.10:381][498]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 2 outstanding Http Requests:
+[2026.07.13-17.24.10:381][498]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC798DB6D-4FCD-A050-13F3-2EBBD061577E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=d6271a4705be449b9cad1b64017c0def%7C95d1431353044f92a83bc44c381eb8b2%7C1d51430e-bb64-41fa-9bf8-690a653622c7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.07.13-17.24.10:382][498]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC798DB6D-4FCD-A050-13F3-2EBBD061577E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=d6271a4705be449b9cad1b64017c0def%7C95d1431353044f92a83bc44c381eb8b2%7C1d51430e-bb64-41fa-9bf8-690a653622c7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.07.13-17.24.10:382][498]LogHttp: Warning: 	Sleeping 0.500s to wait for 2 outstanding Http Requests.
+[2026.07.13-17.24.10:881][498]LogHttp: Warning: 	Sleeping 0.500s to wait for 2 outstanding Http Requests.
+[2026.07.13-17.24.11:382][498]LogHttp: Warning: 	Sleeping 0.500s to wait for 2 outstanding Http Requests.
+[2026.07.13-17.24.11:883][498]LogHttp: Warning: 	Sleeping 0.500s to wait for 2 outstanding Http Requests.
+[2026.07.13-17.24.12:383][498]LogHttp: Warning: [FHttpManager::Flush] FlushTimeSoftLimitSeconds [2.000s] exceeded. Cancelling 2 outstanding HTTP requests:
+[2026.07.13-17.24.12:383][498]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC798DB6D-4FCD-A050-13F3-2EBBD061577E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=d6271a4705be449b9cad1b64017c0def%7C95d1431353044f92a83bc44c381eb8b2%7C1d51430e-bb64-41fa-9bf8-690a653622c7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.07.13-17.24.12:383][498]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC798DB6D-4FCD-A050-13F3-2EBBD061577E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=d6271a4705be449b9cad1b64017c0def%7C95d1431353044f92a83bc44c381eb8b2%7C1d51430e-bb64-41fa-9bf8-690a653622c7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.07.13-17.24.12:383][498]LogHttp: Warning: 	Sleeping 0.500s to wait for 2 outstanding Http Requests.
+[2026.07.13-17.24.12:884][498]LogHttp: Warning: [FHttpManager::Flush] FlushTimeSoftLimitSeconds [2.000s] exceeded. Cancelling 2 outstanding HTTP requests:
+[2026.07.13-17.24.12:884][498]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC798DB6D-4FCD-A050-13F3-2EBBD061577E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=d6271a4705be449b9cad1b64017c0def%7C95d1431353044f92a83bc44c381eb8b2%7C1d51430e-bb64-41fa-9bf8-690a653622c7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.07.13-17.24.12:884][498]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC798DB6D-4FCD-A050-13F3-2EBBD061577E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.0-55116800%2B%2B%2BUE5%2BRelease-5.8&UserID=d6271a4705be449b9cad1b64017c0def%7C95d1431353044f92a83bc44c381eb8b2%7C1d51430e-bb64-41fa-9bf8-690a653622c7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.07.13-17.24.12:945][498]LogNFORDenoise: NFORDenoise function shutting down
+[2026.07.13-17.24.12:946][498]RenderDocPlugin: plugin has been unloaded.
+[2026.07.13-17.24.12:963][498]LogPakFile: Destroying PakPlatformFile
+[2026.07.13-17.24.14:642][498]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.07.13-17.24.14:985][498]LogExit: Exiting.
+[2026.07.13-17.24.15:061][498]Log file closed, 07/14/26 01:24:15
