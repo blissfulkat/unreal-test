@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\source\\yummy_food_my_tummy\\variant_shooter\\weapons\\shooterpickup.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\intermediate\\build\\win64\\x64\\yummy_food_my_tummyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\yummy_food_my_tummy\\definitions.yummy_food_my_tummy.h",
+            "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\source\\yummy_food_my_tummy\\variant_shooter\\weapons\\shooterpickup.h",
+            "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\intermediate\\build\\win64\\unrealeditor\\inc\\yummy_food_my_tummy\\uht\\shooterpickup.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\source\\yummy_food_my_tummy\\variant_shooter\\weapons\\shooterweaponholder.h",
+            "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\intermediate\\build\\win64\\unrealeditor\\inc\\yummy_food_my_tummy\\uht\\shooterweaponholder.generated.h",
+            "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\source\\yummy_food_my_tummy\\variant_shooter\\weapons\\shooterweapon.h",
+            "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\intermediate\\build\\win64\\unrealeditor\\inc\\yummy_food_my_tummy\\uht\\shooterweapon.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

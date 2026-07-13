@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\source\\yummy_food_my_tummy\\yummy_food_my_tummy.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\intermediate\\build\\win64\\x64\\yummy_food_my_tummyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\yummy_food_my_tummy\\definitions.yummy_food_my_tummy.h",
+            "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\source\\yummy_food_my_tummy\\yummy_food_my_tummy.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

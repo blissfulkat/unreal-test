@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\source\\yummy_food_my_tummy\\yummy_food_my_tummygamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\intermediate\\build\\win64\\x64\\yummy_food_my_tummyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\yummy_food_my_tummy\\definitions.yummy_food_my_tummy.h",
+            "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\source\\yummy_food_my_tummy\\yummy_food_my_tummygamemode.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\kyler\\documents\\github\\chiggas work\\yummy_food_my_tummy\\intermediate\\build\\win64\\unrealeditor\\inc\\yummy_food_my_tummy\\uht\\yummy_food_my_tummygamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

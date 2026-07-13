@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\yummy_food_my_tummy.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\yummy_food_my_tummyEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\yummy_food_my_tummy">
+      <UniqueIdentifier>{3B5F5AC3-FDA8-3D61-BA54-3EFED6809710}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\yummy_food_my_tummy\Variant_Horror">
+      <UniqueIdentifier>{2014D62A-2158-3112-A207-D33F27F3FFB7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Horror\HorrorCharacter.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Horror\HorrorCharacter.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Horror\HorrorGameMode.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Horror\HorrorGameMode.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Horror\HorrorPlayerController.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Horror\HorrorPlayerController.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Horror</Filter>
+    </ClInclude>
+    <Filter Include="Source\yummy_food_my_tummy\Variant_Horror\UI">
+      <UniqueIdentifier>{99F29682-B4A9-3670-86BE-D1E06CE1397A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Horror\UI\HorrorUI.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Horror\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Horror\UI\HorrorUI.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Horror\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\yummy_food_my_tummy\Variant_Shooter">
+      <UniqueIdentifier>{4C870609-12FC-35D0-82B3-3BC2EC905F21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\yummy_food_my_tummy\Variant_Shooter\AI">
+      <UniqueIdentifier>{4CCA57CE-97D4-306C-825B-DEAD215B81CA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\AI\EnvQueryContext_Target.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\AI\EnvQueryContext_Target.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\AI\ShooterAIController.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\AI\ShooterAIController.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\AI\ShooterNPC.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\AI\ShooterNPC.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\AI\ShooterNPCSpawner.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\AI\ShooterNPCSpawner.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\AI\ShooterStateTreeUtility.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\AI\ShooterStateTreeUtility.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\ShooterCharacter.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\ShooterCharacter.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\ShooterGameMode.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\ShooterGameMode.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\ShooterPlayerController.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\ShooterPlayerController.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter</Filter>
+    </ClInclude>
+    <Filter Include="Source\yummy_food_my_tummy\Variant_Shooter\UI">
+      <UniqueIdentifier>{4A44C2C4-1649-35F1-9CFA-382C9BC4741B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\UI\ShooterBulletCounterUI.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\UI\ShooterBulletCounterUI.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\UI\ShooterUI.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\UI\ShooterUI.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\yummy_food_my_tummy\Variant_Shooter\Weapons">
+      <UniqueIdentifier>{67D039A7-011B-31CE-BCDC-11C4C50ADC66}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\Weapons\ShooterPickup.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\Weapons\ShooterPickup.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\Weapons\ShooterProjectile.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\Weapons\ShooterProjectile.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\Weapons\ShooterWeapon.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\Weapons\ShooterWeapon.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\Weapons\ShooterWeaponHolder.cpp">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\Variant_Shooter\Weapons\ShooterWeaponHolder.h">
+      <Filter>Source\yummy_food_my_tummy\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\yummy_food_my_tummy\yummy_food_my_tummy.Build.cs">
+      <Filter>Source\yummy_food_my_tummy</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\yummy_food_my_tummy.cpp">
+      <Filter>Source\yummy_food_my_tummy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\yummy_food_my_tummy.h">
+      <Filter>Source\yummy_food_my_tummy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\yummy_food_my_tummyCameraManager.cpp">
+      <Filter>Source\yummy_food_my_tummy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\yummy_food_my_tummyCameraManager.h">
+      <Filter>Source\yummy_food_my_tummy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\yummy_food_my_tummyCharacter.cpp">
+      <Filter>Source\yummy_food_my_tummy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\yummy_food_my_tummyCharacter.h">
+      <Filter>Source\yummy_food_my_tummy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\yummy_food_my_tummyGameMode.cpp">
+      <Filter>Source\yummy_food_my_tummy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\yummy_food_my_tummyGameMode.h">
+      <Filter>Source\yummy_food_my_tummy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\yummy_food_my_tummy\yummy_food_my_tummyPlayerController.cpp">
+      <Filter>Source\yummy_food_my_tummy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\yummy_food_my_tummy\yummy_food_my_tummyPlayerController.h">
+      <Filter>Source\yummy_food_my_tummy</Filter>
+    </ClInclude>
+    <None Include="..\..\yummy_food_my_tummy.uproject" />
+  </ItemGroup>
+</Project>

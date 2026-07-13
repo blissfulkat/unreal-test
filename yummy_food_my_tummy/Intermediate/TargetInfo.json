@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "yummy_food_my_tummy",
+			"Path": "..\\Source\\yummy_food_my_tummy.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "yummy_food_my_tummyEditor",
+			"Path": "..\\Source\\yummy_food_my_tummyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

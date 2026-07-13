@@ -1,0 +1,14 @@
+"C:/Users/kyler/Documents/GitHub/chiggas work/yummy_food_my_tummy/Source/yummy_food_my_tummy/Variant_Horror/HorrorGameMode.cpp"
+@"C:/Users/kyler/Documents/GitHub/chiggas work/yummy_food_my_tummy/Intermediate/Build/Win64/x64/UnrealEditor/Development/yummy_food_my_tummy/yummy_food_my_tummy.Shared.rsp"
+/FI"C:/Users/kyler/Documents/GitHub/chiggas work/yummy_food_my_tummy/Intermediate/Build/Win64/x64/yummy_food_my_tummyEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"C:/Users/kyler/Documents/GitHub/chiggas work/yummy_food_my_tummy/Intermediate/Build/Win64/x64/UnrealEditor/Development/yummy_food_my_tummy/Definitions.yummy_food_my_tummy.h"
+/Yu"C:/Users/kyler/Documents/GitHub/chiggas work/yummy_food_my_tummy/Intermediate/Build/Win64/x64/yummy_food_my_tummyEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"C:/Users/kyler/Documents/GitHub/chiggas work/yummy_food_my_tummy/Intermediate/Build/Win64/x64/yummy_food_my_tummyEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"C:/Users/kyler/Documents/GitHub/chiggas work/yummy_food_my_tummy/Intermediate/Build/Win64/x64/UnrealEditor/Development/yummy_food_my_tummy/HorrorGameMode.cpp.obj"
+/experimental:log "C:/Users/kyler/Documents/GitHub/chiggas work/yummy_food_my_tummy/Intermediate/Build/Win64/x64/UnrealEditor/Development/yummy_food_my_tummy/HorrorGameMode.cpp.sarif"
+/sourceDependencies "C:/Users/kyler/Documents/GitHub/chiggas work/yummy_food_my_tummy/Intermediate/Build/Win64/x64/UnrealEditor/Development/yummy_food_my_tummy/HorrorGameMode.cpp.dep.json"
+/nologo
+/TP
+/GR-
+/std:c++20
+/wd5054
