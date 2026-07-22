@@ -2330,3 +2330,6 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2026.07.22-08.37.39:640][560]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.07.22-08.37.39:640][560]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
 [2026.07.22-08.37.39:717][560]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/kyler/Documents/GitHub/unreal test/yummy_food_my_tummy/Saved/SourceControl/UncontrolledChangelists.json
+[2026.07.22-08.38.55:366][879]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 692.714722
+[2026.07.22-08.38.56:367][882]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.22-08.38.56:367][882]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 693.386597, Update Interval: 340.976593
